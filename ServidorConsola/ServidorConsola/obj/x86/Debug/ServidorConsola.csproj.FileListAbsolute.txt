@@ -1,0 +1,4 @@
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ServidorConsola\ServidorConsola\bin\Debug\ServidorConsola.exe
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ServidorConsola\ServidorConsola\bin\Debug\ServidorConsola.pdb
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ServidorConsola\ServidorConsola\obj\x86\Debug\ServidorConsola.exe
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\ServidorConsola\ServidorConsola\obj\x86\Debug\ServidorConsola.pdb
